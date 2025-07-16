@@ -1,7 +1,7 @@
 import guitarLaR from "../assets/img/projects/guitarLAReducer.png";
 import calculadoraC from "../assets/img/projects/calculadoraCalorias.png";
 import calculadoraP from "../assets/img/projects/calculadoraPropinas.png";
-import guitarLa from "../assets/img/projects/guitarLa.png";
+import guitarLa from "../assets/img/projects/guitarLA.png";
 import super6 from "../assets/img/projects/superSeis.png";
 import sassP from "../assets/img/projects/sassPersonal.png";
 
