@@ -1,6 +1,3 @@
-import { Toast } from "bootstrap";
-import React, { useState } from "react";
-
 export default function Contact() {
   // Estado para almacenar los valores del formulario
   const [formData, setFormData] = useState({
